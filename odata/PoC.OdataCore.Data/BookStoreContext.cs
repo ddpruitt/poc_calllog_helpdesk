@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PoC.OdataCore2021v2.Models;
+using PoC.OdataCore.Data.Models;
 
-namespace PoC.OdataCore2021v2
+namespace PoC.OdataCore.Data
 {
     public class BookStoreContext : DbContext
     {

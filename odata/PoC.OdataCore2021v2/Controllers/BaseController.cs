@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Query;
 using Microsoft.AspNetCore.OData.Routing.Controllers;
-using PoC.OdataCore2021v2.Models;
 using System.Linq;
+using PoC.OdataCore.Data;
+using PoC.OdataCore.Data.Models;
 
 namespace PoC.OdataCore2021v2.Controllers
 {

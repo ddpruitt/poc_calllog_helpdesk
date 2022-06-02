@@ -1,4 +1,4 @@
-﻿namespace PoC.OdataCore2021v2.Models
+﻿namespace PoC.OdataCore.Data.Models
 {
     public class Press : IEntity
     {

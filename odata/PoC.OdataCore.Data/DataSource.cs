@@ -1,7 +1,6 @@
-﻿using PoC.OdataCore2021v2.Models;
-using System.Collections.Generic;
+﻿using PoC.OdataCore.Data.Models;
 
-namespace PoC.OdataCore2021v2
+namespace PoC.OdataCore.Data
 {
     public static class DataSource
     {
@@ -29,6 +28,7 @@ namespace PoC.OdataCore2021v2
                 {
                     Id = 1,
                     Name = "Addison-Wesley",
+                    Email = "mm5679@ohmy.com",
                     Category = Category.Book
                 }
             };
@@ -47,6 +47,7 @@ namespace PoC.OdataCore2021v2
                 {
                     Id = 2,
                     Name = "O'Reilly",
+                    Email = "mike399@edge.com",
                     Category = Category.EBook,
                 }
             };
